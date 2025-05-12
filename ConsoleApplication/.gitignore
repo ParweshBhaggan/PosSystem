@@ -1,0 +1,74 @@
+# Build outputs
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Rider
+.idea/
+
+# Logs
+*.log
+logs/
+
+# Visual Studio temporary files
+*.vspscc
+*.vssscc
+.vs/
+
+# Dotnet watch and global tools
+**/Properties/launchSettings.json
+
+# Test results
+TestResults/
+*.coverage
+*.coveragexml
+
+# Dependency directories
+node_modules/
+packages/
+
+# Tooling artifacts
+artifacts/
+.project.lock.json
+project.fragment.lock.json
+
+# Others
+*.db
+*.pdb
+*.mdb
+
+# Environment secrets (optional)
+secrets.json
+.env
+.env.*
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# NCrunch
+*.ncrunch*
+.*crunch*.local.xml
+
+# Coverage
+coverage*.json
+coverage*.xml
+coverage*.info
+
+# Local tools
+.tools/
+
+# Global JSON if not needed
+global.json
