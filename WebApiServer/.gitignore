@@ -87,3 +87,5 @@ TestResults/
 .vscode/
 *.pidb
 *.userprefs
+
+.vs/
